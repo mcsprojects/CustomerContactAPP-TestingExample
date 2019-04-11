@@ -1,0 +1,234 @@
+body, #mainWrapper {
+	height: 100%;
+	background-color:#ddd;
+}
+
+body, #mainWrapper, .form-control{
+    
+	font-size:12px!important;
+		    
+}
+
+h1 span, #mainWrapper {
+	color: #5379fa !important;	
+}
+h3 span, #mainWrapper {
+	color: #5379fa !important;	
+}
+.custom{
+color: #5379fa !important;
+}
+
+p, #custom{
+margin-top: 20%;
+margin-right: -70%;
+color: #6F5A5A;
+font-style: italic;
+font-size: 13.4px;
+font-weight: 500px;
+}
+
+
+strong, #mainWrapper { font-weight: 300; }
+
+
+body, #mainWrapper, .description{
+text-align: center;
+
+}
+
+body, #mainWrapper, .description h2 { font-family: 'Roboto', sans-serif; font-size: 30px; font-weight: 300; color: #888; }
+
+table #table{
+table-layout: auto;
+width: 100%;
+ 
+}
+#mainWrapper {
+	/*height: 720px; Without explicit px values, % in children's does not work*/
+	height: 100vh; /*with Viewport-Percentage, we can handles all devices screens  */
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+
+
+
+.page-form {
+    padding: 11%;
+    margin-top: -27px;
+}
+
+.form-container {
+  position:fixed;
+  width:70%;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+}
+
+.floatRight{
+	float:right;
+	margin-right: 18px;
+}
+
+.floatLeft{
+	float:left;
+	margin-left: 18px;
+	
+}
+
+.floatLeft1{
+	float:left;
+	margin-left: 37px;
+	
+}
+
+.floatLeft2{
+	float:left;
+	margin-left: 23px;	
+	
+}
+
+.floatRight1{
+	float:right;
+	margin-right: 23px;
+	margin-top: 7px;
+	color: #6F5A5A;
+    font-style: italic;
+    font-size: 13.4px;
+    font-weight: 500px;	
+}
+
+.floatCustom{
+	float:right;
+	margin-right: 8px;
+}
+
+
+.fa_custom {  
+color: #5379fa !important;
+margin-right: 5px;
+ 
+}  
+.title {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;    
+  margin-left: -600px;
+}
+
+.title-2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.4;    
+  margin-left: -780px;
+}
+@media (min-width: 768px) {
+  .title {
+    font-size: 21px;
+   
+}
+
+
+.has-error{
+	color:red;
+}
+.generic-container {
+  position:fixed;
+  width:80%;  
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+.generic-container-2 {
+  position:fixed;
+  width:97%;  
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+.custom-width {
+    width: 80px !important;
+}
+.authbar{
+	margin-bottom:15px;
+}
+.authbar1{
+	margin-top:20px;
+}
+
+.authbar [type=button] {
+	background: #5379fa !important;
+	border: 1px solid #5379fa !important;
+	
+}
+
+.blue {
+color: #5379fa !important;
+font-size: 13px;
+
+}
+
+.blue-2{
+color: #5379fa !important;
+font-size: 13px;
+font-weight: 900; 
+}			
+
+.success{
+  position:fiexd;
+  width:50%;
+  margin-left: 50px;
+  margin-top:20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.custom-th {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.custom-th-2 {
+    text-align: center;
+}
+
+.custom-td {
+    white-space: nowrap;
+    font-size: 1.1rem;
+    
+ }
+ .custom-td-2 {
+    white-space: nowrap;
+       
+ } 
+ 
+ .clearfix {
+    overflow: auto;
+}
+ 
+ 
+
+
