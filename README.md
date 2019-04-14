@@ -1,9 +1,9 @@
-CustomerContactApp-TestingExample
+CustomerContactManagement-TestingExample
 =================================
 
 #### Implementation Stack:
 
-* Spring  4.3.4
+* Spring  4.3.18
 * Hibernate 4.3.6.Final
 * JasperReports 6.5.1
 * MySQL 5.1.31

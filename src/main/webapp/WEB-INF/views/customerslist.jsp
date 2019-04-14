@@ -52,7 +52,7 @@
 					
 				  <td class="custom-td-2">
 				  		   
-                  <a href="<c:url value='/edit-${customer.email}-customer' />"class="btn btn-default"><em class="fa fa-pencil"></em></a>
+                  <a href="<c:url value='/edit-${customer.email}-customer' />"class="btn btn-primary"><em class="fa fa-pencil"></em></a>
                  
                   				   
                   <a href="<c:url value='/delete-${customer.email}-customer' />" class="btn btn-danger"><em class="fa fa-trash"></em></a>

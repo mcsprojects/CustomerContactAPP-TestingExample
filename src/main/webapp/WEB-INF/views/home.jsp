@@ -24,7 +24,7 @@
     <div class="page-container">
     <div class="page-card">	 
       <div class="title-app">
-		  <h1>CustomerContact<span>APP</span></h1>
+		  <h1>CustomerContact<span>Management</span></h1>
 		  <h2>Spring 4 + Hibernate 4 +  MySQL + JasperReports + Maven Integration Example</h2> 
 		  <h2 id="custom-h2">Mockito with TestNG Example</h2>                   
       </div>            
