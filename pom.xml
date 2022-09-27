@@ -9,7 +9,7 @@
   <name>CustomerContactManagement-TestingExample</name>
   
   <properties>
-		<springframework.version>4.3.18.RELEASE</springframework.version>
+		<springframework.version>5.2.21.RELEASE</springframework.version>
 		<hibernate.version>4.3.6.Final</hibernate.version>
 		<mysql.version>5.1.31</mysql.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
